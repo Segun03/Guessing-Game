@@ -13,9 +13,9 @@ Guessing Phase: Users start guessing the number.
 Outcome Notification: If the user guesses correctly, they are congratulated. Otherwise, they are prompted to try again.
 
 # How to Use
-Clone the repository
-Navigate to the project directory
-Compile the program
-Run the program
-Follow the game instructions 
+Clone the repository,
+Navigate to the project directory,
+Compile the program,
+Run the program,
+Follow the game instructions, 
 Enjoy the game!
